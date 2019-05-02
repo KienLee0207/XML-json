@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<vnexpress>
+	<hotNews>
+			<news>
+				<image>image_hot.png</image>
+				<title>Chính phủ Việt Nam cần làm gương để phát triển kinh tế số</title>
+				<desc>Theo TS Brian Hull, Tổng giám đốc ABB Việt Nam, cả Chính phủ và các doanh nghiệp lớn cần đưa ra lời tư vấn cho những doanh nghiệp nhỏ trong nền kinh tế số.</desc>
+				<link>https://vnexpress.net</link>
+			</news>
+	</hotNews>
+	<list_new>
+		<news>
+			<image></image>
+			<title>Đi chơi 5 ngày nghỉ lễ, nhà tôi tiêu chưa đến một triệu đồng</title>
+			<desc></desc>
+			<link>https://vnexpress.net</link>
+		</news>
+		<news>
+			<image></image>
+			<title>Bé trai 12 tuổi bị chó cắn mất hai tai</title>4
+			<desc></desc>
+			<link>https://vnexpress.net</link>
+		</news>
+		<news>
+			<image></image>
+			<title>Gia đình nên chọn xe nào tầm giá từ 600 triệu đến 1 tỷ?</title>
+			<desc></desc>
+			<link>https://vnexpress.net</link>
+		</news>
+		<news>
+			<image></image>
+			<title>Barca bắt kịp cột mốc ghi bàn của Real taị Champions League</title>
+			<desc></desc>
+			<link>https://vnexpress.net</link>
+
+		</news>
+		<news>
+			<image></image>
+			<title>Ngoại binh khen Quang Hải chơi đồng đội</title>
+			<desc></desc>
+			<link>https://vnexpress.net</link>
+
+		</news>
+	</list_new>
+</vnexpress>
